@@ -1,5 +1,7 @@
 4/20/2020
-[python][conda][EE148-Caltech]
+
+\#python \#conda \#EE148-Caltech
+
 Error Msg: 
 ```
 C:\Users\di111\Miniconda3\lib\site-packages\numpy\__init__.py:140: UserWarning: mkl-service package failed to import, therefore Intel(R) MKL initialization ensuring its correct out-of-the box operation under condition when Gnu OpenMP had already been loaded by Python process is not assured. Please install mkl-service package, see http://github.com/IntelPython/mkl-service
