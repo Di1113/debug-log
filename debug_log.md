@@ -1,6 +1,9 @@
 4/20/2020
-[python][conda][EE148-Caltech]
+
+\#python \#conda \#EE148-Caltech
+
 Issue: sublime text 3 python interpreters cannot find numpy, numba
+
 Tried: 
 1. deleted Win10's embedded python interpreters from user environment variable PATH
 2. added miniconda's python interpreter to user environment variable PATH
